@@ -1,4 +1,4 @@
-ab
+
 aba
 abad
 abadi
@@ -26170,6 +26170,7 @@ iduladha
 idulfitri
 idulkurban
 ien
+ifa
 ifah
 iffah
 ifrad
